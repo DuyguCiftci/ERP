@@ -3,6 +3,7 @@ from storage import Storage
 from material import Material
 from storage_2 import Storage2
 from product import Product
+import os
 # P1 = Product("Nike", "01.01.2019", 20)
 #
 # print(P1.company_name, P1.start_date, P1.quantity)
@@ -30,6 +31,10 @@ from product import Product
 # storage.add_product(product)
 # storage.delete_product(1)
 # print(storage.storage_dict)
+
+os.system("git add -A")
+os.system("git commit -m \"Commit.\"")
+os.system("git push -u origin master")
 
 material_storage = Storage()
 product_storage = Storage2()

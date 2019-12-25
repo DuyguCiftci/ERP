@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c5b4532-cfca-43c7-8c4e-f832a8d7cd80" name="Default Changelist" comment="" />
+    <list default="true" id="5c5b4532-cfca-43c7-8c4e-f832a8d7cd80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts.ods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/contracts.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/storage.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VNs8suwKTuNjhHg9rRjcFu9xth" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +34,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../duygu_gurkan (copy)/main.py" />
   </component>
   <component name="RunManager" selected="Python.main">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="duygu_gurkan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$ (copy)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$ (copy)/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="duygu_gurkan" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +105,7 @@
       <list>
         <item itemvalue="Python.main" />
         <item itemvalue="Python.product" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -99,21 +135,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1377" height="260" key="GridCell.Tab.0.bottom" timestamp="1577111965154">
+    <state x="792" y="338" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577274459409">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577111965154" />
-    <state width="1377" height="260" key="GridCell.Tab.0.center" timestamp="1577111965154">
+    <state x="792" y="338" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577274459409" />
+    <state width="1830" height="260" key="GridCell.Tab.0.bottom" timestamp="1577281934213">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577111965154" />
-    <state width="1377" height="260" key="GridCell.Tab.0.left" timestamp="1577111965154">
+    <state width="1830" height="260" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577281934213" />
+    <state width="1830" height="260" key="GridCell.Tab.0.center" timestamp="1577281934213">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577111965154" />
-    <state width="1377" height="260" key="GridCell.Tab.0.right" timestamp="1577111965154">
+    <state width="1830" height="260" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577281934213" />
+    <state width="1830" height="260" key="GridCell.Tab.0.left" timestamp="1577281934213">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577111965154" />
+    <state width="1830" height="260" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577281934213" />
+    <state width="1830" height="260" key="GridCell.Tab.0.right" timestamp="1577281934213">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="260" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577281934213" />
+    <state x="665" y="407" key="com.intellij.ide.util.TipDialog" timestamp="1577274269718">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="665" y="407" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1577274269718" />
   </component>
 </project>

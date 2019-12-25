@@ -1,9 +1,9 @@
 class Product:
-    def __init__(self, product_name, ingredients, expire_date):
+    def __init__(self, product_name, ingredients, expire_date, quantity):
         self.product_name = product_name
         self.ingredients = ingredients
         self.expire_date = expire_date
-        self.quantity = 0
+        self.quantity = quantity
 
     def produce(self, storage, amount, storage_2):
         for i in range(amount):
@@ -15,9 +15,11 @@ class Product:
                     else:
                         print("Not enough {0} to produce {1}".format(material[0], self.product_name))
                         enable = False
+                        return
                 else:
                     enable = False
-                    print("Not enough {0} to produce {1}".format(material[0], self.product_name))
+                    print("No {0} to produce {1}".format(material[0], self.product_name))
+                    return
             if enable:
                 self.quantity += 1
                 storage_2.storage2_dict[self.product_name] = self
